@@ -1,1 +1,1 @@
-filtr
+Projekt filtru splotowego
